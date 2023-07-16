@@ -1,2 +1,4 @@
 #!/bin/bash
 chown -hR vincent:stuff .
+chown -hR vincent:staff .
+5bbe67af4e4ab7db999da71cdcd22b50ec5bec37
